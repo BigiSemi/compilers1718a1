@@ -53,7 +53,7 @@ ad = { 'q6':'TIME_TOKEN'}
 
 
 # get a string from input
-text = input('give some input here--->')
+text = input('give some input >')
 
 # scan text until no more input
 while text:	# that is, while len(text)>0
